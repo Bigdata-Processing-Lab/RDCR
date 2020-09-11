@@ -41,7 +41,19 @@ Repository for Deep Clustering Research
 
 ## 4. Researchers
 
+* [Charu Aggarwal](https://scholar.google.com/citations?user=x_wsduUAAAAJ&hl=ko) (IBM T. J. Watson Research Center)
+
 ## 5. Papers
+* [Unsupervised Deep Embedding for Clustering Analysis](https://arxiv.org/abs/1511.06335)(ICML 2016)
+* [Online Deep Clustering for Unsupervisied Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhan_Online_Deep_Clustering_for_Unsupervised_Representation_Learning_CVPR_2020_paper.html)(CVPR 2020)
+* [Improved Deep Embedded Clustering with Local Structure Preservation](https://www.ijcai.org/Proceedings/2017/243)(IJCAI 2017)
+* [Improving Spectral Clustering with Deep Embedding and Cluster Estimation](https://ieeexplore.ieee.org/abstract/document/8970928/)(ICDM 2019)
+* [Learning Embedding Space for Clustering From Deep Representations](https://ieeexplore.ieee.org/document/8622629)(IEEE Bigdata 2018)
+* [Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520)(ECCV 2018)
+* [Variational Deep Embedding-An Unsupervised and Generative Approach to Clustering](https://www.ijcai.org/Proceedings/2017/273)(IJCAI 2017)
+* [Language Model-Driven Topic Clustering and Summarization for News Articles](https://ieeexplore.ieee.org/document/8936376)(IEEE Access 2019)
+* [Deep Spectral Clustering using Dual Autoencoder Network](https://openaccess.thecvf.com/content_CVPR_2019/html/Yang_Deep_Spectral_Clustering_Using_Dual_Autoencoder_Network_CVPR_2019_paper.html)(CVPR 2019)
+* [Deep Subspace Clustering Networks](https://papers.nips.cc/paper/6608-deep-subspace-clustering-networks)(NIPS 2017)
 
 ## 6. Github Repositories
 
