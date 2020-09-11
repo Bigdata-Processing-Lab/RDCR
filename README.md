@@ -17,6 +17,7 @@ Repository for Deep Clustering Research
 * [Data Clustering](https://www.amazon.com/Data-Clustering-Algorithms-Applications-Knowledge-ebook/dp/B00EYROAQU) (2014, Charu C. Aggarwal, Chandan K. Reddy)
 * [Deep Learning](https://www.deeplearningbook.org/) (2016, Ian Goodfellow, Yoshua Bengio and Aaron Courville)
 * [Mining of Massive Datasets](http://www.mmds.org/) (2020, Jure Leskovec, Anand Rajaraman and Jeff Ullman)
+* [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) (2008, Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schütze)
 
 ## 2. Conferences
 * [KDD](https://www.kdd.org/) (ACM SIGKDD International Conference on Knowledge discovery and data mining)
